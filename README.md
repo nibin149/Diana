@@ -49,7 +49,7 @@ $ node julie.js
       
 ```js
 SETUP
-$ git clone https://github.com/Ajmallllllll/Diana
+$ git clone https://github.com/nibin149/Diana
 $ cd Diana
 $ npm i
 $ node julie.js
