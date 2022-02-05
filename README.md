@@ -28,8 +28,6 @@ THEN COPY THE LINK BELLOW AND CHANGE THE NAME `nibin149` TO YOUR USER NAME AND O
 Copy this link https://heroku.com/deploy?template=https://github.com/nibin149/Diana
 </p>
 
-
-[![Visit](https://i.imgur.com/A6rxBdq.jpeg)](https://61dd66edc10ff.site123.me) 
   
 ### Simple Method
   
