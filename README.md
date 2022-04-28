@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img border-radius: 15px src="IMG-20220206-WA0049.png" width="200" height="200"/>
+  <img border-radius: 15px src="diana.jpg" width="200" height="200"/>
   <p align="center">
 <a href="#"><img title="Diana" src="https://img.shields.io/badge/Diana-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
